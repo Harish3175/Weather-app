@@ -16,7 +16,7 @@ A responsive weather application that allows users to search for any city and ge
 - HTML
 - CSS
 - JavaScript
-- Weather API (OpenWeatherMap or similar)
+- Weather API (OpenWeatherMap)
 
 📸 Screenshot
 
@@ -24,7 +24,7 @@ A responsive weather application that allows users to search for any city and ge
 
 🔗 Live Demo
 
-(Add your deployed link here – e.g., Vercel)
+(https://harish3175.github.io/Weather-app/)
 
 📌 Future Improvements
 
