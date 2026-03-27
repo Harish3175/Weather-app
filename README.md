@@ -20,7 +20,8 @@ A responsive weather application that allows users to search for any city and ge
 
 📸 Screenshot
 
-(Add your project screenshot here)
+(<img width="1918" height="923" alt="WeatherApp" src="https://github.com/user-attachments/assets/670d7035-3237-4e93-815f-d6de391ea0a2" />
+)
 
 🔗 Live Demo
 
